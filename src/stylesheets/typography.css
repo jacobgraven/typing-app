@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Sometype";
+    src: url('../assets/fonts/Sometype/sometype-mono.woff2') format('woff2'), url('../assets/fonts/Sometype/sometype-mono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: "Font B";
+    src: url('../assets/fonts/Font B'.woff2) format('woff2'), url('../assets/fonts/Font_B/.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+
+body {
+    font-family: "Sometype", sans-serif;
+}
+

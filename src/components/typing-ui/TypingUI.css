@@ -1,0 +1,9 @@
+.typing-frame {
+    height: 100%;
+    font-size: 5rem;
+}
+
+.typing-frame input {
+    width: 0;
+    height: 0;
+}
